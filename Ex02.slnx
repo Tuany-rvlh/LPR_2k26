@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Aula02/">
+    <Project Path="Aula02/Ex02/Ex02.csproj" />
+    <Project Path="Aula02/Ex04/Ex04.csproj" />
+  </Folder>
+  <Folder Name="/Aula03/">
+    <Project Path="Aula03/Hello_GitHub/Hello_GitHub.csproj" />
+  </Folder>
+</Solution>

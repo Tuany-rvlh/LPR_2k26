@@ -1,0 +1,14 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\bin\Debug\net9.0\Hello_GitHub.exe
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\bin\Debug\net9.0\Hello_GitHub.deps.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\bin\Debug\net9.0\Hello_GitHub.runtimeconfig.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\bin\Debug\net9.0\Hello_GitHub.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\bin\Debug\net9.0\Hello_GitHub.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\refint\Hello_GitHub.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\ref\Hello_GitHub.dll
