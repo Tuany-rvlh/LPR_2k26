@@ -17,4 +17,7 @@
   <Folder Name="/Aula05/Ex02/">
     <Project Path="Aula05/Ex02/Adivinha/Adivinha.csproj" />
   </Folder>
+  <Folder Name="/Aula05/Ex03/">
+    <Project Path="Aula05/Ex03/Multiplos3/Multiplos3.csproj" />
+  </Folder>
 </Solution>

@@ -5,7 +5,7 @@ Console.Write("Digite a sua primeira tentativa: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int cont = 1;
 
-while (num != valorInteiro)
+while (true)
 {
     if (num > valorInteiro){
         Console.WriteLine("Chutou alto!");
@@ -16,4 +16,12 @@ while (num != valorInteiro)
         Console.WriteLine("Chutou baixo!");
         cont++;
     }
+    else
+    {
+        Console.WriteLine($"Acertou! Foram usadas {cont} tentativas!");
+        break;
+    }
+
+    Console.Write("Digite a sua outra tentativa: ");
+    num = Convert.ToInt32(Console.ReadLine());
 }

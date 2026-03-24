@@ -1,0 +1,15 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.sourcelink.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\bin\Debug\net9.0\Adivinha.exe
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\bin\Debug\net9.0\Adivinha.deps.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\bin\Debug\net9.0\Adivinha.runtimeconfig.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\bin\Debug\net9.0\Adivinha.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\bin\Debug\net9.0\Adivinha.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\refint\Adivinha.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\Adivinha.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex02\Adivinha\obj\Debug\net9.0\ref\Adivinha.dll
