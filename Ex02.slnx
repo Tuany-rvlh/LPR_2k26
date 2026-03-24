@@ -6,4 +6,8 @@
   <Folder Name="/Aula03/">
     <Project Path="Aula03/Hello_GitHub/Hello_GitHub.csproj" />
   </Folder>
+  <Folder Name="/Aula04/">
+    <Project Path="Aula04/Ex01_par_impar/Ex01_par_impar.csproj" />
+    <Project Path="Aula04/Ex03_jogoRPG/Ex03_jogoRPG.csproj" />
+  </Folder>
 </Solution>

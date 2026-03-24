@@ -1,0 +1,15 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\bin\Debug\net9.0\Ex03_jogoRPG.exe
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\bin\Debug\net9.0\Ex03_jogoRPG.deps.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\bin\Debug\net9.0\Ex03_jogoRPG.runtimeconfig.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\bin\Debug\net9.0\Ex03_jogoRPG.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\bin\Debug\net9.0\Ex03_jogoRPG.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.sourcelink.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\refint\Ex03_jogoRPG.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\Ex03_jogoRPG.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula04\Ex03_jogoRPG\obj\Debug\net9.0\ref\Ex03_jogoRPG.dll
