@@ -12,3 +12,4 @@ C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula02\Ex04\obj\Debug\net9.0\refint\Ex
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula02\Ex04\obj\Debug\net9.0\Ex04.pdb
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula02\Ex04\obj\Debug\net9.0\Ex04.genruntimeconfig.cache
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula02\Ex04\obj\Debug\net9.0\ref\Ex04.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula02\Ex04\obj\Debug\net9.0\Ex04.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\bin\Debug\net9.0\media_aritmetica.exe
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\bin\Debug\net9.0\media_aritmetica.deps.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\bin\Debug\net9.0\media_aritmetica.runtimeconfig.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\bin\Debug\net9.0\media_aritmetica.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\bin\Debug\net9.0\media_aritmetica.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.sourcelink.json
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\refint\media_aritmetica.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.pdb
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\media_aritmetica.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula05\Ex01\media_aritmetica\obj\Debug\net9.0\ref\media_aritmetica.dll
