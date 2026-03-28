@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\Ex03_jogoRPG.csproj": {}
+    "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\Ex03_jogoRPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\Ex03_jogoRPG.csproj": {
+    "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\Ex03_jogoRPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\Ex03_jogoRPG.csproj",
+        "projectUniqueName": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\Ex03_jogoRPG.csproj",
         "projectName": "Ex03_jogoRPG",
-        "projectPath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\Ex03_jogoRPG.csproj",
+        "projectPath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\Ex03_jogoRPG.csproj",
         "packagesPath": "C:\\Users\\persi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\obj\\",
+        "outputPath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
