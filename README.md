@@ -1,4 +1,4 @@
-# 📚 Repositório de Estudos - Desenvolvimento de Sistemas
+# 📚 Repositório de Estudos - Desenvolvimento de Sistemas - 2k26
 
 Este repositório foi criado como parte das atividades da disciplina de Linguagem de Programação, do curso de Desenvolvimento de Sistemas (DS), ministrada pelo professor José Andery.
 Este projeto representa meu primeiro contato com Git e GitHub, sendo utilizado como ferramenta de aprendizado, organização e evolução dos meus estudos em programação.
