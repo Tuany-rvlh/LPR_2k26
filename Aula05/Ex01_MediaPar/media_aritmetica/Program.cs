@@ -20,4 +20,4 @@ while (quantia != 0)
     quantia--;
 }
 
-Console.WriteLine($"A média dos valores pares digitados vai ser: {acumulador/cont}");
+Console.WriteLine($"A média dos valores pares digitados será: {acumulador/cont}");
