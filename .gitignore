@@ -1,18 +1,18 @@
-# 🔧 Build C++
+# Build C++
 *.exe
 *.out
 *.o
 *.obj
 
-# 🔧 Build C#
+# Build C#
 bin/
 obj/
 *.dll
 *.pdb
 
-# 🔧 VS Code
+# VS Code
 .vscode/
 
-# 🔧 Sistema
+# Sistema
 .DS_Store
 Thumbs.db
