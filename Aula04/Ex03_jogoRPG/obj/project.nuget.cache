@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uJSPc9R2iXA=",
+  "dgSpecHash": "mNDS7uf3qSA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_jogoRPG\\Ex03_jogoRPG.csproj",
+  "projectFilePath": "C:\\Users\\persi\\LPR_2k26\\Aula04\\Ex03_JogoRPG\\Ex03_jogoRPG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\persi\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
     "C:\\Users\\persi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
