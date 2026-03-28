@@ -5,7 +5,13 @@ Este projeto representa meu primeiro contato com Git e GitHub, sendo utilizado c
 
 ## 🚀 Sobre o repositório
 
-Aqui estão reunidos exercícios propostos ao longo das aulas semanais, com foco no desenvolvimento de lógica de programação e prática das linguagens estudadas.
+Aqui estão reunidos exercícios propostos ao longo das aulas semanais, com foco no desenvolvimento de lógica de programação e prática das linguagens estudadas:
+
+- Aula 01: Conceitos básicos da computação - HELLO, WORLD! em C# e C++;
+- Aula 02: Introdução e lógica de programação - atribuições, operadores e comandos básicos;
+- Aula 03: Git e GitHub;
+- Aula 04: Estruturas de seleção;
+- Aula 05: Estruturas de repetição.
 
 ## 💻 Linguagens utilizadas
 
