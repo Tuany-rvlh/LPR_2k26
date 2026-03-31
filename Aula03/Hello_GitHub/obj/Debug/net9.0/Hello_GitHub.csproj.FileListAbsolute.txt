@@ -12,3 +12,4 @@ C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\r
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.pdb
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.genruntimeconfig.cache
 C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\ref\Hello_GitHub.dll
+C:\Users\alunos\OneDrive\Desktop\LPR_2k26\Aula03\Hello_GitHub\obj\Debug\net9.0\Hello_GitHub.sourcelink.json
