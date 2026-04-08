@@ -6,7 +6,7 @@ namespace Marvel
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Bem-vindo ao sistema de seleção de heróis da Marvel para uma equipe!");
+            Console.WriteLine("\nBem-vindo ao sistema de seleção de heróis da Marvel para uma equipe!");
             int opcao = 0, opcao1 = 0, opcao2 = 0, opcao3 = 0, contCadastro = 0, ValorPonto1 = 0 , ValorPonto2 = 0, ValorPonto3 = 0, ValorPonto4 = 0, ValorPonto5 = 0;
             bool Continuar = false; 
             string nome1 = "", nome2 = "", nome3 = "", nome4 = "", nome5 = "", poder1 = "", poder2 = "", poder3 = "", poder4 = "", poder5 = "";
@@ -14,7 +14,7 @@ namespace Marvel
             do{
                 Console.WriteLine("==========================================================================");
                 Menu(ref opcao);
-                Console.WriteLine("==========================================================================");
+                Console.WriteLine("\n==========================================================================");
                 switch (opcao)
                 {
                     case 1:
@@ -44,7 +44,7 @@ namespace Marvel
 
          static void Menu(ref int opcao)
         {
-            Console.WriteLine("Menu de opções: ");
+            Console.WriteLine("\nMenu de opções: ");
             Console.WriteLine("1 - Cadastrar herói;");
             Console.WriteLine("2 - Seleção de equipe;");
             Console.WriteLine("3 - Pontuação total da equipe;");
@@ -87,7 +87,7 @@ namespace Marvel
 
             while (contCadastro < 5)
             {
-                Console.WriteLine($"Cadastro do herói {contCadastro + 1}");
+                Console.WriteLine($"\nCadastro do herói {contCadastro + 1}");
 
                 Console.Write("Digite o nome do herói: ");
                 string nome = Console.ReadLine() ?? "";
@@ -100,7 +100,7 @@ namespace Marvel
 
                 if (!int.TryParse(entrada, out int valor))
                 {
-                    Console.WriteLine("Entrada inválida!");
+                    Console.WriteLine("\nEntrada inválida!");
                     continue;
                 }
 
@@ -134,20 +134,20 @@ namespace Marvel
                     poder5 = poder;
                     ValorPonto5 = valor;
                 }
-                Console.WriteLine("==========================================================================");
-                Console.WriteLine("Cadastro realizado com sucesso!");
+                Console.WriteLine("\n==========================================================================");
+                Console.WriteLine("\nCadastro realizado com sucesso!");
                 contCadastro++;
 
                 if (contCadastro == 5)
                 {
-                    Console.WriteLine("Limite de heróis atingido!");
+                    Console.WriteLine("Limite de heróis atingido! Escolha outras opções no Menu!");
                     break;
                 }
 
                 ContinuarCadastro(ref Continuar, ref contCadastro);
                 if (!Continuar)
                     break;
-                Console.WriteLine("==========================================================================");
+                Console.WriteLine("\n==========================================================================");
             }
         }
         static void selecionarEquipe(ref int opcao1, ref int opcao2, ref int opcao3, ref int contCadastro, ref int ValorPonto1, ref int ValorPonto2, ref int ValorPonto3, ref int ValorPonto4, 
@@ -155,10 +155,10 @@ namespace Marvel
         {
             if(contCadastro < 3)
             {
-                Console.WriteLine($"Você precisa cadastrar pelo menos 3 heróis para formar uma equipe! Você cadastrou {contCadastro} heróis.");
+                Console.WriteLine($"\nVocê precisa cadastrar pelo menos 3 heróis para formar uma equipe! Você cadastrou {contCadastro} heróis.");
                 return;
             }
-            Console.WriteLine("Você pode selecionar 3 heróis para formar sua equipe!");
+            Console.WriteLine("\nVocê pode selecionar 3 heróis para formar sua equipe!");
             if (nome1 != "")
                 Console.WriteLine($"OPÇÃO 1: {nome1} -> Poder: {poder1} - Pontuação: {ValorPonto1}");
             if (nome2 != "")
@@ -172,36 +172,44 @@ namespace Marvel
 
             int contOpValida = 0;
             while (contOpValida < 3)
-                {
-                Console.WriteLine($"Digite um dos heróis que deseja selecionar (1-{contCadastro}): ");
+            {
+                Console.Write($"\nEscolha os heróis dessas opções para sua equipe (1-{contCadastro}): ");
                 string heroi = Console.ReadLine() ?? "";
 
                 if (!int.TryParse(heroi, out int escolhaSelecionada))
                 {
-                    Console.WriteLine("Entrada inválida!");
+                    Console.WriteLine("\nEntrada inválida!");
                     continue;
                 }
-                contOpValida++;
-                if (contOpValida == 1)
-                    opcao1 = escolhaSelecionada;
-                else if (contOpValida == 2 && escolhaSelecionada == opcao1)
+
+                if(escolhaSelecionada > contCadastro)
                 {
-                    contOpValida--;
-                    Console.WriteLine("Você já selecionou esse herói! Selecione novamente.");
+                    Console.WriteLine("\nSua opção não existe nesse sistema, tente novamente!");
                 }
-                else if (contOpValida == 2 && escolhaSelecionada != opcao1 )
-                    opcao2 = escolhaSelecionada;
-                else if (contOpValida == 3 && (escolhaSelecionada == opcao1 || escolhaSelecionada == opcao2))
+                else
                 {
-                    contOpValida--;
-                    Console.WriteLine("Você já selecionou esse herói! Selecione novamente.");
+                    contOpValida++;
+                    if (contOpValida == 1)
+                        opcao1 = escolhaSelecionada;
+                    else if (contOpValida == 2 && escolhaSelecionada == opcao1)
+                    {
+                        contOpValida--;
+                        Console.WriteLine("\nVocê já selecionou esse herói! Selecione novamente.");
+                    }
+                    else if (contOpValida == 2 && escolhaSelecionada != opcao1 )
+                        opcao2 = escolhaSelecionada;
+                    else if (contOpValida == 3 && (escolhaSelecionada == opcao1 || escolhaSelecionada == opcao2))
+                    {
+                        contOpValida--;
+                        Console.WriteLine("\nVocê já selecionou esse herói! Selecione novamente.");
+                    }
+                    else if (contOpValida == 3)
+                    {
+                        opcao3 = escolhaSelecionada;
+                        Console.WriteLine("\nVocê selecionou os heróis, parabéns!");  
+                    }
                 }
-                else if (contOpValida == 3)
-                {
-                    opcao3 = escolhaSelecionada;
-                    Console.WriteLine("Você selecionou os heróis, parabéns!");  
-                }
-                }
+            }
         }
         static void calcularPontuacaoTotal(ref int opcao1, ref int opcao2, ref int opcao3, ref int ValorPonto1, ref int ValorPonto2, ref int ValorPonto3, ref int ValorPonto4, ref int ValorPonto5)
         {
@@ -216,13 +224,13 @@ namespace Marvel
                     pontuacaoTotal += ValorPonto4;
                 if (opcao1 == 5 || opcao2 == 5 || opcao3 == 5)
                     pontuacaoTotal += ValorPonto5;
-            Console.WriteLine($"A pontuação total da equipe é: {pontuacaoTotal}");
+            Console.WriteLine($"\nA pontuação total da equipe é: {pontuacaoTotal}\n");
         }
          static void exibirEquipe(ref int opcao1, ref int opcao2, ref int opcao3, ref int contCadastro, ref int ValorPonto1, ref int ValorPonto2, ref int ValorPonto3, ref int ValorPonto4, ref int ValorPonto5, ref string poder1, ref string poder2, ref string poder3, ref string poder4, ref string poder5, ref string nome1, ref string nome2, ref string nome3, ref string nome4, ref string nome5)
         {
-            Console.WriteLine("Equipe selecionada:");
+            Console.WriteLine("\nEquipe selecionada:");
             if (contCadastro == 0)
-            Console.WriteLine($"Nenhum herói cadastrado! Você precisa cadastrar pelo menos 3 heróis para formar uma equipe! Você cadastrou {contCadastro} heróis.");
+            Console.WriteLine($"\nNenhum herói cadastrado! Você precisa cadastrar pelo menos 3 heróis para formar uma equipe! Você cadastrou {contCadastro} heróis.");
             if (opcao1 == 1 || opcao2 == 1 || opcao3 == 1)
                 Console.WriteLine($"Herói selecionado: {nome1} -> Poder: {poder1} / Pontuação: {ValorPonto1}");
             if (opcao1 == 2 || opcao2 == 2 || opcao3 == 2)

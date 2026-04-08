@@ -23,7 +23,7 @@ void MediaPar(){
 
     while(quantia > 0){
         int num; 
-        cout << "Digite um número: " << endl;
+        cout << "Digite o número " << quantia << ": " << endl;
         cin >> num;
 
         if (num % 2 == 0){
