@@ -51,7 +51,7 @@ namespace Marvel
             Console.WriteLine("4 - Exibição da equipe selecionada;");
             Console.WriteLine("5 - Sair do programa. ");
 
-            Console.Write("Digite o número da opção desejada: ");
+            Console.Write("\nDigite o número da opção desejada: ");
             string escolha = Console.ReadLine() ?? "";
             if (int.TryParse(escolha, out int escolhaSelecionada))
             {
@@ -61,33 +61,33 @@ namespace Marvel
         }
         static void ContinuarCadastro(ref bool Continuar, ref int contCadastro)
         {
-            Console.WriteLine("Deseja cadastrar outro herói? (S/N)");
+            Console.Write("\nDeseja cadastrar outro herói? (S/N): ");
             string resposta = Console.ReadLine()?.ToUpper() ?? "";
 
-            if(resposta == "S")
+            if(resposta == "S" || resposta == "SIM")
             {
-                Console.WriteLine("Vamos cadastrar outro herói!");
+                Console.WriteLine("\nVamos cadastrar outro herói!");
                 Continuar = true;
             }
-            else if(resposta == "N")
+            else if(resposta == "N" || resposta == "NÃO" || resposta == "NAO")
             {
-                Console.WriteLine($"Cadastro finalizado! Você cadastrou {contCadastro} heróis.");
+                Console.WriteLine($"\nCadastro finalizado! Você cadastrou {contCadastro} heróis.");
                 Continuar = false;
             }
             else
             {
-                Console.WriteLine($"Resposta inválida! O cadastro será finalizado e você cadastrou {contCadastro} heróis.");
+                Console.WriteLine($"\nResposta inválida! O cadastro será finalizado e você cadastrou {contCadastro} heróis.");
                 Continuar = false;
             }
         }
         static void cadastrarHeroi(ref bool Continuar, ref int contCadastro, ref int ValorPonto1, ref int ValorPonto2, ref int ValorPonto3, ref int ValorPonto4, ref int ValorPonto5, 
         ref string poder1, ref string poder2, ref string poder3, ref string poder4, ref string poder5, ref string nome1, ref string nome2, ref string nome3, ref string nome4, ref string nome5)
         {
-            Console.WriteLine("Você pode cadastrar até 5 heróis!");
+            Console.WriteLine("\nVocê pode cadastrar até 5 heróis!");
 
             while (contCadastro < 5)
             {
-                Console.WriteLine($"\nCadastro do herói {contCadastro + 1}");
+                Console.WriteLine($"\nCadastro do herói {contCadastro + 1}: ");
 
                 Console.Write("Digite o nome do herói: ");
                 string nome = Console.ReadLine() ?? "";
@@ -140,7 +140,7 @@ namespace Marvel
 
                 if (contCadastro == 5)
                 {
-                    Console.WriteLine("Limite de heróis atingido! Escolha outras opções no Menu!");
+                    Console.WriteLine("\nLimite de heróis atingido! Escolha outras opções no Menu!");
                     break;
                 }
 
