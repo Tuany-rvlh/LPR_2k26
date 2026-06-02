@@ -13,8 +13,20 @@ for(int i = 0; i < numeros.Length; i++)
 {
     if(numeros[i] % 2 == 0)
     {
-        
+        numPar[i] = numeros[i];
+    }
+    else
+    {
+        numImpar[i] = numeros[i]
     }
 }
 
+foreach(int numeroPar in numPar)
+{
+    Console.WriteLine($"Os números pares são: {numeroPar}");
+}
 
+foreach(int numeroImpar in numImpar)
+{
+    Console.WriteLine($"Os números ímpares são: {numeroImpar}");
+}

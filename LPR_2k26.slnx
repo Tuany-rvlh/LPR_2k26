@@ -1,0 +1,34 @@
+<Solution>
+  <Folder Name="/Aula01/" />
+  <Folder Name="/Aula01/HelloWorld2/">
+    <Project Path="Aula01/HelloWorld2/HelloWorld2.0/HelloWorld2.0.csproj" />
+  </Folder>
+  <Folder Name="/Aula02/" />
+  <Folder Name="/Aula02/Ex02_CalcularDiferenca/">
+    <Project Path="Aula02/Ex02_CalcularDiferenca/Ex02.csproj" />
+  </Folder>
+  <Folder Name="/Aula02/Ex04_CalcularPreco/">
+    <Project Path="Aula02/Ex04_CalcularPreco/Ex04.csproj" />
+  </Folder>
+  <Folder Name="/Aula03/">
+    <Project Path="Aula03/Hello_GitHub/Hello_GitHub.csproj" />
+  </Folder>
+  <Folder Name="/Aula04/">
+    <Project Path="Aula04/Ex03_jogoRPG/Ex03_jogoRPG.csproj" />
+  </Folder>
+  <Folder Name="/Aula04/Ex01_ParOuImpar/">
+    <Project Path="Aula04/Ex01_ParOuImpar/Ex01_par_impar.csproj" />
+  </Folder>
+  <Folder Name="/Aula05/">
+    <Project Path="Aula05/Ex01_MediaPar/Ex01_MediaPar.csproj" />
+    <Project Path="Aula05/Ex02_AdivinhaJogo/Ex02_AdivinhaJogo.csproj" />
+    <Project Path="Aula05/Ex03_NumMulti3/Ex03_NumMulti3.csproj" />
+  </Folder>
+  <Folder Name="/Aula06/">
+    <Project Path="Aula06/Marvel/Marvel.csproj" />
+  </Folder>
+  <Folder Name="/Aula07/">
+    <Project Path="Aula07/Ex01_VetorParImpar/Ex01_VetorParImpar.csproj" />
+    <Project Path="Aula07/Ex04_MatrizMultiplicar/Ex04_MatrizMultiplicar.csproj" />
+  </Folder>
+</Solution>

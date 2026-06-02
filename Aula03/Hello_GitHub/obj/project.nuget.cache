@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WKd6h2EYWlg=",
+  "dgSpecHash": "ZR+S8a9c7IM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\persi\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alunos\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\alunos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\alunos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\alunos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.16\\microsoft.netcore.app.host.win-x64.9.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
