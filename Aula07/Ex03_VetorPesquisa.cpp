@@ -1,5 +1,6 @@
 //biblioteca para manipulação de vetores e algoritmos de busca
 #include <iostream>
+#include <locale.h>
 #include <vector>
 #include <algorithm>
 

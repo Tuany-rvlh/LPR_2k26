@@ -1,16 +1,19 @@
 #include <iostream> // Biblioteca para entrada e saída de dados
 #include <vector>   // Biblioteca para utilizar vetores dinâmicos
+#include <locale.h> // Biblioteca para configurar a localidade, permitindo acentuação em português
 
 using namespace std;
 
 int main() {
+
+    setlocale(LC_ALL, "pt_BR.UTF-8"); // Permite acentuação em português
 
     // Cria um vetor de inteiros com 5 posições
     vector<int> vetor(5);
 
     // Laço para preencher o vetor com valores digitados pelo usuário
     for (int i = 0; i < 5; i++) {
-        cout << "Digite o valor da posicao " << i << ": ";
+        cout << "Digite o valor da posição " << i << ": ";
         cin >> vetor[i];
     }
 
@@ -27,7 +30,7 @@ int main() {
     }
 
     // Exibe a posição onde está o maior valor
-    cout << "\nPosicao do maior valor: " << posMaior << endl;
+    cout << "\nPosição do maior valor: " << posMaior << endl;
 
     // Exibe o maior valor encontrado
     cout << "Maior valor: " << maiorValor << endl;

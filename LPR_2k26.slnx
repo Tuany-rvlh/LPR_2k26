@@ -28,7 +28,9 @@
     <Project Path="Aula06/Marvel/Marvel.csproj" />
   </Folder>
   <Folder Name="/Aula07/">
-    <Project Path="Aula07/Ex01_VetorParImpar/Ex01_VetorParImpar.csproj" />
-    <Project Path="Aula07/Ex04_MatrizMultiplicar/Ex04_MatrizMultiplicar.csproj" />
+    <Project Path="Aula07/Ex02_VetorParImpar/Ex02_VetorParImpar.csproj" />
+    <Project Path="Aula07/Ex04_VetorEscola/Ex04_VetorEscola.csproj" />
+    <Project Path="Aula07/Ex07_MatrizMultiplicar/Ex07_MatrizMultiplicar.csproj" />
+    <Project Path="Aula07/Ex08_MatrizCinema/Ex08_MatrizCinema.csproj" />
   </Folder>
 </Solution>

@@ -1,4 +1,5 @@
 #include <iostream>
+#include <locale.h>
 
 // declarar matriz
 int matriz[3][3];

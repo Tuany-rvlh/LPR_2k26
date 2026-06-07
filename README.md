@@ -12,7 +12,8 @@ Aqui estão reunidos exercícios propostos ao longo das aulas semanais, com foco
 - Aula 03: Git e GitHub;
 - Aula 04: Estruturas de seleção;
 - Aula 05: Estruturas de repetição;
-- Aula 06: Como usar funções e sua importância.
+- Aula 06: Como usar funções e sua importância;
+- Aula 07: Estruturação de dados (matriz e vetor).
   
 ## 💻 Linguagens utilizadas
 
