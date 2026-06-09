@@ -16,7 +16,7 @@ main()
     //percorrer e preencher a matriz
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
-            cout << "Digite o valor para a posição [" << i + 1 << "][" << j + 1 << "]: ";
+            cout << "Digite o valor para a posição [" << i << "][" << j << "]: ";
             cin >> matriz[i][j];
             soma += matriz[i][j]; // acumula a soma dos elementos da matriz
         }
