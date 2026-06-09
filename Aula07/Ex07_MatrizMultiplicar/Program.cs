@@ -20,6 +20,7 @@ for(int i = 0; i < 3; i++)
     }
 }
 
+//cálculo da matriz
 matrizAB[0, 0] = (matrizA[0,0] * matrizB[0,0]) + (matrizA[0,1] * matrizB[1,0]) + (matrizA[0,2] * matrizB[2,0]);
 matrizAB[0, 1] = (matrizA[0,0] * matrizB[0,1]) + (matrizA[0,1] * matrizB[1,1]) + (matrizA[0,2] * matrizB[2,1]);
 matrizAB[0, 2] = (matrizA[0,0] * matrizB[0,2]) + (matrizA[0,1] * matrizB[1,2]) + (matrizA[0,2] * matrizB[2,2]);
@@ -32,6 +33,7 @@ matrizAB[2, 0] = (matrizA[2,0] * matrizB[0,0]) + (matrizA[2,1] * matrizB[1,0]) +
 matrizAB[2, 1] = (matrizA[2,0] * matrizB[0,1]) + (matrizA[2,1] * matrizB[1,1]) + (matrizA[2,2] * matrizB[2,1]);
 matrizAB[2, 2] = (matrizA[2,0] * matrizB[0,2]) + (matrizA[2,1] * matrizB[1,2]) + (matrizA[2,2] * matrizB[2,2]);
 
+//mostrar a matriz
 for (int i = 0; i < matrizAB.GetLength(0); i++)
 {
     for (int j = 0; j < matrizAB.GetLength(1); j++)
