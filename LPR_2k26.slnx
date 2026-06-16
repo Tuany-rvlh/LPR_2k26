@@ -33,4 +33,8 @@
     <Project Path="Aula07/Ex07_MatrizMultiplicar/Ex07_MatrizMultiplicar.csproj" />
     <Project Path="Aula07/Ex08_MatrizCinema/Ex08_MatrizCinema.csproj" />
   </Folder>
+  <Folder Name="/Aula08/">
+    <Project Path="Aula08/Ex03_StructLivro/Ex03_StructLivro.csproj" />
+    <Project Path="Aula08/Ex04_StructJogo/Ex04_StructJogo.csproj" />
+  </Folder>
 </Solution>
