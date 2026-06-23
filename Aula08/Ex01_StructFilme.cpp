@@ -1,9 +1,10 @@
-#include <iostream>
-#include <iomanip>
-#include <string>
-#include <array>
-using namespace std;
+//bibliotecas incluídas
+#include <iostream> // cin e cout
+#include <string> // permite string
+#include <array> //para o array
+#include <clocale> //setlocale
 
+using namespace std; //Não é necessário colocar std:: quando utlizado esse using
 
 //Struct criada para os elementos do filme
 struct Filme{
@@ -18,7 +19,7 @@ int main(){
     //Variável para ver o filme mais antigo
     string antigo;
 
-    //Definindo um vetor para armazenar os dados dos 3 filmes
+    //Definindo um array que armazena 3 elementos do tipo filme
     array<Filme,3>DadosFilme;
 
     setlocale(LC_ALL, "pt_BR.UTF-8"); // Permite acentuação em português
@@ -49,21 +50,14 @@ int main(){
 
 
     //Verificaçõ do ano menor
-    if(DadosFilme[0].AnoLancamento == DadosFilme[1].AnoLancamento && 
-        DadosFilme[0].AnoLancamento == DadosFilme[2].AnoLancamento && 
-        DadosFilme[1].AnoLancamento == DadosFilme[2].AnoLancamento){
-            cout << "Não há um filme mais antigo, todos foram lançados no mesmo ano. " << endl;
+   int indiceMaisAntigo = 0;
+
+    for (int i = 1; i < 3; i++) {
+        if (DadosFilme[i].AnoLancamento < DadosFilme[indiceMaisAntigo].AnoLancamento) {
+            indiceMaisAntigo = i;
         }
-    else if(DadosFilme[0].AnoLancamento < DadosFilme[1].AnoLancamento && 
-        DadosFilme[0].AnoLancamento < DadosFilme[2].AnoLancamento){
-            cout << "O filme mais antigo é o " << DadosFilme[0].Titulo << endl;
     }
-    else if(DadosFilme[1].AnoLancamento < DadosFilme[0].AnoLancamento && 
-        DadosFilme[1].AnoLancamento < DadosFilme[2].AnoLancamento){
-            cout << "O filme mais antigo é o " << DadosFilme[1].Titulo << endl;
-    }
-    else{
-        cout << "O filme mais antigo é o " << DadosFilme[2].Titulo << endl;
-    }
+
+    cout << "O filme mais antigo é o " << DadosFilme[indiceMaisAntigo].Titulo << endl;
 
 }

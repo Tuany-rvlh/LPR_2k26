@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
+      "projectUniqueName": "C:\\Users\\alunos\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
       "projectName": "Hello_GitHub",
-      "projectPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
+      "projectPath": "C:\\Users\\alunos\\LPR_2k26\\Aula03\\Hello_GitHub\\Hello_GitHub.csproj",
       "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2k26\\Aula03\\Hello_GitHub\\obj\\",
+      "outputPath": "C:\\Users\\alunos\\LPR_2k26\\Aula03\\Hello_GitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,5 @@
 #include <iostream> // biblioteca do sistema
-//#include <iomanip> //biblioteca 
-//#include <string> // biblioteca para
+#include <clocale> // setlocale
 
 using namespace std; //não será precio mais o uso do std em todas as linhas de código
 
@@ -13,6 +12,8 @@ struct produto{
 };
 
 main(){
+    
+    setlocale(LC_ALL, "pt_BR.UTF-8"); // Permite acentuação em português
 
     produto P1;
     cout << "Digite o nome do produto: ";
@@ -23,7 +24,8 @@ main(){
     cin >> P1.Preco;
     cout << "Digite a quantidade de produto: ";
     cin >> P1.Quantidade;
-    cout << "";
+    cout << " " << endl;
+    cin.ignore();
     
     produto P2;
     cout << "Digite o nome do produto: ";
@@ -34,7 +36,8 @@ main(){
     cin >> P2.Preco;
     cout << "Digite a quantidade de produto: ";
     cin >> P2.Quantidade;
-    cout << "";
+    cout << " " << endl;
+    cin.ignore();
 
     produto P3;
     cout << "Digite o nome do produto: ";
@@ -45,10 +48,11 @@ main(){
     cin >> P3.Preco;
     cout << "Digite a quantidade de produto: ";
     cin >> P3.Quantidade;
-    cout << "";
+    cout << " " << endl;
+    cin.ignore();
 
     float valor = (P1.Preco * P1.Quantidade) + (P2.Preco * P2.Quantidade) + (P3.Preco * P3.Quantidade);
 
-    cout << "O valor total em estoque é " << valor << endl;
+    cout << "O valor total em estoque é " << valor << " reais. " << endl;
 
 }

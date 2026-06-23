@@ -27,7 +27,7 @@ main()
         for (int j = 0; j < 3; j++) {
             cout << matriz[i][j] << " ";
         }
-        cout << endl; // <- quebra a linha aqui
+        cout << endl; //quebra a linha aqui
     }
 
     // mostrar a soma dos elementos da matriz

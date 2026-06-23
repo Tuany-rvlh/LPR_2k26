@@ -101,7 +101,6 @@ namespace Marvel
                 if (!int.TryParse(entrada, out int valor))
                 {
                     Console.WriteLine("\nEntrada inválida!");
-                    continue;
                 }
 
                 if (contCadastro == 0)
