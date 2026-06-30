@@ -37,4 +37,8 @@
     <Project Path="Aula08/Ex03_StructLivro/Ex03_StructLivro.csproj" />
     <Project Path="Aula08/Ex04_StructJogo/Ex04_StructJogo.csproj" />
   </Folder>
+  <Folder Name="/Aula09/">
+    <Project Path="Aula09/Ex03_ListaNumAle/Ex03_ListaNumAle.csproj" />
+    <Project Path="Aula09/Ex04_ListaPiloto/Ex04_ListaPiloto.csproj" />
+  </Folder>
 </Solution>
