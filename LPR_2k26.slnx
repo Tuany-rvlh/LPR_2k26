@@ -1,37 +1,58 @@
 <Solution>
   <Folder Name="/Aula01/" />
-  <Folder Name="/Aula01/HelloWorld2/">
-    <Project Path="Aula01/HelloWorld2/HelloWorld2.0/HelloWorld2.0.csproj" />
+  <Folder Name="/Aula01/HelloWorldC#/">
+    <Project Path="Aula01/HelloWorldC#/HelloWorld2.0/HelloWorldC#.csproj" />
   </Folder>
   <Folder Name="/Aula02/" />
+  <Folder Name="/Aula02/C#/">
+    <Project Path="Aula02/C#/Ex01_AreaCircular/Ex01_AreaCircular.csproj" />
+    <Project Path="Aula02/C#/Ex03_Salario/Ex03_Salario.csproj" />
+  </Folder>
   <Folder Name="/Aula02/Ex02_CalcularDiferenca/">
-    <Project Path="Aula02/Ex02_CalcularDiferenca/Ex02.csproj" />
+    <Project Path="Aula02/C#/Ex02_CalcularDiferenca/Ex02_CalcularDiferenca.csproj" />
   </Folder>
   <Folder Name="/Aula02/Ex04_CalcularPreco/">
-    <Project Path="Aula02/Ex04_CalcularPreco/Ex04.csproj" />
+    <Project Path="Aula02/C#/Ex04_CalcularPreco/Ex04_CalcularPreco.csproj" />
   </Folder>
   <Folder Name="/Aula03/">
     <Project Path="Aula03/Hello_GitHub/Hello_GitHub.csproj" />
   </Folder>
   <Folder Name="/Aula04/">
-    <Project Path="Aula04/Ex03_jogoRPG/Ex03_jogoRPG.csproj" />
+    <Project Path="Aula04/C#/Ex03_jogoRPG/Ex03_jogoRPG.csproj" />
+  </Folder>
+  <Folder Name="/Aula04/C#/">
+    <Project Path="Aula04/C#/Ex02_multiplos/Ex02_multiplos.csproj" />
   </Folder>
   <Folder Name="/Aula04/Ex01_ParOuImpar/">
-    <Project Path="Aula04/Ex01_ParOuImpar/Ex01_par_impar.csproj" />
+    <Project Path="Aula04/C#/Ex01_ParOuImpar/Ex01_ParOuImpar.csproj" />
   </Folder>
   <Folder Name="/Aula05/">
-    <Project Path="Aula05/Ex01_MediaPar/Ex01_MediaPar.csproj" />
-    <Project Path="Aula05/Ex02_AdivinhaJogo/Ex02_AdivinhaJogo.csproj" />
-    <Project Path="Aula05/Ex03_NumMulti3/Ex03_NumMulti3.csproj" />
+    <Project Path="Aula05/C#/Ex01_MediaPar/Ex01_MediaPar.csproj" />
+    <Project Path="Aula05/C#/Ex02_AdivinhaJogo/Ex02_AdivinhaJogo.csproj" />
+    <Project Path="Aula05/C#/Ex03_NumMulti3/Ex03_NumMulti3.csproj" />
+  </Folder>
+  <Folder Name="/Aula05/C#/">
+    <Project Path="Aula05/C#/Ex04_CalcularDigitos/Ex04_CalcularDigitos.csproj" />
+    <Project Path="Aula05/C#/Ex05_HorasTreinamento/Ex05_HorasTreinamento.csproj" />
   </Folder>
   <Folder Name="/Aula06/">
-    <Project Path="Aula06/Marvel/Marvel.csproj" />
+    <Project Path="Aula06/C#/Ex01_ReversoNum/Ex01_ReversoNum.csproj" />
+    <Project Path="Aula06/C#/Ex03_Marvel/Ex03_Marvel.csproj" />
+  </Folder>
+  <Folder Name="/Aula06/C#/">
+    <Project Path="Aula06/C#/Ex02_JuntarExs/Ex02_JuntarExs.csproj" />
   </Folder>
   <Folder Name="/Aula07/">
-    <Project Path="Aula07/Ex02_VetorParImpar/Ex02_VetorParImpar.csproj" />
-    <Project Path="Aula07/Ex04_VetorEscola/Ex04_VetorEscola.csproj" />
-    <Project Path="Aula07/Ex07_MatrizMultiplicar/Ex07_MatrizMultiplicar.csproj" />
-    <Project Path="Aula07/Ex08_MatrizCinema/Ex08_MatrizCinema.csproj" />
+    <Project Path="Aula07/C#/Ex02_VetorParImpar/Ex02_VetorParImpar.csproj" />
+    <Project Path="Aula07/C#/Ex04_VetorEscola/Ex04_VetorEscola.csproj" />
+    <Project Path="Aula07/C#/Ex07_MatrizMultiplicar/Ex07_MatrizMultiplicar.csproj" />
+    <Project Path="Aula07/C#/Ex08_MatrizCinema/Ex08_MatrizCinema.csproj" />
+  </Folder>
+  <Folder Name="/Aula07/C#/">
+    <Project Path="Aula07/C#/Ex01_VetorPosMaior/Ex01_VetorPosMaior.csproj" />
+    <Project Path="Aula07/C#/Ex03_VetorPesquisa/Ex03_VetorPesquisa.csproj" />
+    <Project Path="Aula07/C#/Ex05_MatrizSoma/Ex05_MatrizSoma.csproj" />
+    <Project Path="Aula07/C#/Ex06_MatrizCidade/Ex06_MatrizCidade.csproj" />
   </Folder>
   <Folder Name="/Aula08/">
     <Project Path="Aula08/Ex03_StructLivro/Ex03_StructLivro.csproj" />
