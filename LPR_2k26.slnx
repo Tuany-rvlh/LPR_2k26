@@ -55,11 +55,16 @@
     <Project Path="Aula07/C#/Ex06_MatrizCidade/Ex06_MatrizCidade.csproj" />
   </Folder>
   <Folder Name="/Aula08/">
-    <Project Path="Aula08/Ex03_StructLivro/Ex03_StructLivro.csproj" />
-    <Project Path="Aula08/Ex04_StructJogo/Ex04_StructJogo.csproj" />
+    <Project Path="Aula08/C#/Ex03_StructLivro/Ex03_StructLivro.csproj" />
+    <Project Path="Aula08/C#/Ex04_StructJogo/Ex04_StructJogo.csproj" />
+  </Folder>
+  <Folder Name="/Aula08/C#/">
+    <Project Path="Aula08/C#/Ex01_StructFilme/Ex01_StructFilme.csproj" />
+    <Project Path="Aula08/C#/Ex02_StructProduto/Ex02_StructProduto.csproj" />
+    <Project Path="Aula08/C#/Ex05_StructEmpresa/Ex05_StructEmpresa.csproj" />
   </Folder>
   <Folder Name="/Aula09/">
-    <Project Path="Aula09/Ex03_ListaNumAle/Ex03_ListaNumAle.csproj" />
-    <Project Path="Aula09/Ex04_ListaPiloto/Ex04_ListaPiloto.csproj" />
+    <Project Path="Aula09/C#/Ex03_ListaNumAle/Ex03_ListaNumAle.csproj" />
+    <Project Path="Aula09/C#/Ex04_ListaPiloto/Ex04_ListaPiloto.csproj" />
   </Folder>
 </Solution>
