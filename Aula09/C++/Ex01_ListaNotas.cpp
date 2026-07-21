@@ -1,45 +1,74 @@
+/*
+ * Enunciado:
+ *
+ * Crie um programa que permita ao usuário cadastrar notas de alunos
+ * em uma lista.
+ *
+ * O programa deverá:
+ * - Solicitar ao usuário 5 notas;
+ * - Armazenar as notas em uma lista;
+ * - Exibir todas as notas cadastradas;
+ * - Informar a maior nota;
+ * - Informar a menor nota;
+ * - Calcular a média das notas.
+ */
+
+
 #include <iostream> // biblioteca do sistema
-#include <clocale> // setlocale
-#include <list> // usar listas 
+#include <clocale>  // setlocale
+#include <list>     // biblioteca para utilizar listas
 
-using namespace std; //não será precio mais o uso do std em todas as linhas de código
+using namespace std;
 
-main(){
 
+int main()
+{
     setlocale(LC_ALL, "pt_BR.UTF-8"); // Permite acentuação em português
 
-    //Variavéis para guardar o valor da nota e ela ficar na lista
-    list<float>notas;
-    float nota = 0;
-    float maior = notas.front();
-    float menor = notas.front();
-    float soma = 0;
-    
-    for(int i = 0; i < 5; i++){
 
-        cout << "Digite sua nota: ";
+    // Lista para armazenar as notas
+    list<float> notas;
+
+    float nota;
+    float soma = 0;
+
+
+    // Cadastro das notas
+    for (int i = 0; i < 5; i++)
+    {
+        cout << "Digite a nota " << i + 1 << ": ";
         cin >> nota;
 
-        notas.push_front(nota);
+        notas.push_back(nota);
     }
 
-    cout << "As notas são: ";
-    
-    for(int numero : notas){   
-        cout << numero << ", ";
+    // Inicializa maior e menor com a primeira nota da lista
+    float maior = notas.front();
+    float menor = notas.front();
 
-        if(numero > maior){
+
+    cout << "\nNotas cadastradas: ";
+
+    // Percorre a lista para exibir e encontrar valores
+    for (float numero : notas)
+    {
+        cout << numero << " ";
+
+        if (numero > maior)
+        {
             maior = numero;
         }
 
-        if(numero < menor){
+        if (numero < menor)
+        {
             menor = numero;
         }
+
         soma += numero;
     }
 
-    cout << " " << endl;
-    cout << "A média das notas é:" << soma/notas.size() << endl;
-    cout << "A maior nota é:" << maior << endl;
-    cout << "A menor nota é:" << menor << endl;
+    cout << "\n\nMaior nota: " << maior << endl;
+    cout << "Menor nota: " << menor << endl;
+    cout << "Média das notas: " << soma / notas.size() << endl;
+
 }

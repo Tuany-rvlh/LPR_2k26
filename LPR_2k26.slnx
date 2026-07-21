@@ -67,4 +67,12 @@
     <Project Path="Aula09/C#/Ex03_ListaNumAle/Ex03_ListaNumAle.csproj" />
     <Project Path="Aula09/C#/Ex04_ListaPiloto/Ex04_ListaPiloto.csproj" />
   </Folder>
+  <Folder Name="/Aula09/C#/">
+    <Project Path="Aula09/C#/Ex01_ListaNotas/Ex01_ListaNotas.csproj" />
+    <Project Path="Aula09/C#/Ex02_ListaNomes/Ex02_ListaNomes.csproj" />
+    <Project Path="Aula09/C#/Ex05_DicionarioJogos/Ex05_DicionarioJogos.csproj" />
+    <Project Path="Aula09/C#/Ex06_DicionarioIdade/Ex06_DicionarioIdade.csproj" />
+    <Project Path="Aula09/C#/Ex07_DicionarioCidade/Ex07_DicionarioCidade.csproj" />
+    <Project Path="Aula09/C#/Ex08_DicionarioLivro/Ex08_DicionarioLivro.csproj" />
+  </Folder>
 </Solution>
