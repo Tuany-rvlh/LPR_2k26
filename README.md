@@ -1,101 +1,123 @@
 <div align="center">
 
-# 📚 LPR 2k26
-
-### Linguagem de Programação
-
-### Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=220&section=header&text=LPR%202K26&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=8E24AA&center=true&vCenter=true&width=750&lines=Initializing+LPR+2K26...;Loading+C%2B%2B+Compiler...;Loading+.NET+Runtime...;Building+Algorithms...;Executing+Programming+Exercises...;System+Online+✓"/>
 
-</div>
+<br>
 
+### 💻 Linguagem de Programação 💻
+
+### Curso Técnico em Desenvolvimento de Sistemas
+
+### Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)
+
+### Orientador: **José Andery**
+
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-13-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1.x-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MSYS2](https://img.shields.io/badge/MSYS2-UCRT64-0066CC?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-2.x-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Versionamento-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+
+![Algoritmos](https://img.shields.io/badge/Algoritmos-Lógica%20de%20Programação-3F51B5?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em%20andamento-7B1FA2?style=for-the-badge)
+<br><br>
 ---
+</div>
 
 # 👨‍💻 Sobre o repositório
 
-Este repositório reúne os exercícios desenvolvidos durante a disciplina de **Linguagem de Programação (LPR)** do curso de **Desenvolvimento de Sistemas (DS)** da **Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**.
+Este repositório reúne todos os exercícios, atividades e projetos desenvolvidos durante a disciplina de **Linguagem de Programação (LPR)** do curso Técnico em **Desenvolvimento de Sistemas (DS)** da **Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**.
 
-As atividades são ministradas pelo professor **José Andery** e têm como objetivo desenvolver a lógica de programação, a resolução de problemas e a prática com diferentes linguagens.
+Durante a disciplina são utilizados diversos conceitos fundamentais da computação, iniciando pelos algoritmos básicos e evoluindo gradativamente para estruturas de dados mais complexas, sempre aplicando boas práticas de programação e organização de código.
 
-Este projeto representa meu primeiro contato com **Git e GitHub**, sendo utilizado como ferramenta de organização, versionamento e acompanhamento da minha evolução durante a disciplina.
+Este projeto também representa meu primeiro contato com ferramentas profissionais de desenvolvimento, como **Git**, **GitHub** e **controle de versão**, registrando toda a minha evolução ao longo da disciplina.
 
-Todos os exercícios são desenvolvidos em:
+Sempre que possível, cada exercício é implementado em ambas as linguagens, permitindo comparar diferentes sintaxes, estruturas e formas de resolução para um mesmo problema.
 
-- **C++**
-- **C# (.NET)**
-
-Cada exercício possui duas implementações, uma em cada linguagem, permitindo comparar diferentes sintaxes e compreender como os mesmos conceitos de programação podem ser aplicados em diferentes ambientes.
+Além disso, este repositório serve como material de consulta para estudos futuros e como registro da minha evolução durante o curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 
 # 🗂️ Sumário
 
+- [👨‍💻 Sobre o repositório](#-sobre-o-repositório)
 - [📁 Estrutura do repositório](#-estrutura-do-repositório)
+- [📂 Organização das aulas](#-organização-das-aulas)
 - [📚 Conteúdo das aulas](#-conteúdo-das-aulas)
-- [🎯 Objetivos do projeto](#-objetivos-do-projeto)
+- [💻 Linguagens utilizadas](#-linguagens-utilizadas)
+- [🖥️ Projetos em C++](#️-projetos-em-c)
+- [⚙️ Projetos em C# (.NET)](#️-projetos-em-c-net)
 - [▶️ Como executar](#️-como-executar)
+- [🛠️ Ferramentas utilizadas](#️-ferramentas-utilizadas)
+- [🎯 Objetivos do projeto](#-objetivos-do-projeto)
 - [📈 Status do repositório](#-status-do-repositório)
 
 ---
 
 # 📁 Estrutura do repositório
 
-Os exercícios estão organizados por aula e separados por linguagem.
+A organização deste repositório evoluiu conforme o avanço da disciplina.
 
-Cada aula possui duas pastas principais:
+Nas primeiras aulas, os exercícios eram armazenados diretamente dentro da pasta correspondente à aula. Posteriormente, foi adotada uma estrutura padronizada, separando as implementações em **C++** e **C#**, tornando o projeto mais organizado e facilitando a comparação entre as linguagens.
 
-- **C++** → arquivos desenvolvidos utilizando a linguagem C++;
-- **C#** → projetos desenvolvidos utilizando C# e a plataforma .NET.
+A estrutura geral do projeto é semelhante à seguinte:
 
-A estrutura mantém os mesmos exercícios em ambas as linguagens, facilitando a comparação entre implementações.
-
-```
-LPR_2k26/
+```text
+LPR_2K26/
 │
-├── AulaXX/
-│   │
+├── Aula01/
+│   ├── Exercícios C++
+│   └── Projetos C#
+│
+├── Aula02/
+│   ├── Exercícios C++
+│   └── Projetos C#
+│
+├── Aula03/
+│   ├── Exercícios
+│   └── Projetos
+│
+├── Aula04/
 │   ├── C++/
-│   │   └── exercicioYY.cpp
-│   │
 │   └── C#/
-│       └── exercicioYY/
-│           ├── Program.cs
-│           └── exercicioYY.csproj
+│
+├── Aula05/
+│   ├── C++/
+│   └── C#/
+│
+├── Aula06/
+│   ├── C++/
+│   └── C#/
+│
+├── Aula07/
+│   ├── C++/
+│   └── C#/
+│
+├── Aula08/
+│   ├── C++/
+│   └── C#/
+│
+├── Aula09/
+│   ├── C++/
+│   └── C#/
+│
+├── LPR_2K26.slnx
 │
 └── README.md
 ```
-
-Exemplo:
-
-```
-Aula06/
-│
-├── C++/
-│   ├── Ex01.cpp
-│   ├── Ex02.cpp
-│   └── Ex03.cpp
-│
-└── C#/
-    ├── Ex01/
-    │   ├── Program.cs
-    │   └── Ex01.csproj
-    │
-    ├── Ex02/
-    │   ├── Program.cs
-    │   └── Ex02.csproj
-    │
-    └── Ex03/
-        ├── Program.cs
-        └── Ex03.csproj
-```
+Essa organização facilita a navegação pelo projeto e torna muito mais simples comparar a implementação de um mesmo exercício em C++ e C#.
 
 ---
 
@@ -103,57 +125,229 @@ Aula06/
 
 | Aula | Conteúdo desenvolvido |
 |:---:|-----------------------|
-| 📘 Aula 01 | Conceitos básicos da computação — primeiro programa **HELLO, WORLD!** em C++ e C# |
-| 📗 Aula 02 | Introdução à lógica de programação — atribuições, operadores e comandos básicos |
+| 📘 Aula 01 | Conceitos básicos da computação e primeiro programa (**Hello World**) em C++ e C# |
+| 📗 Aula 02 | Introdução à lógica de programação, variáveis, operadores e entrada/saída de dados |
 | 📙 Aula 03 | Git, GitHub e controle de versão |
-| 📕 Aula 04 | Estruturas de seleção — `if`, `else` e `switch` |
-| 📒 Aula 05 | Estruturas de repetição — `for`, `while` e `do while` |
+| 📕 Aula 04 | Estruturas de seleção (`if`, `else` e `switch`) |
+| 📒 Aula 05 | Estruturas de repetição (`for`, `while` e `do while`) |
 | 📓 Aula 06 | Funções, métodos e modularização de código |
-| 📔 Aula 07 | Variáveis compostas homogêneas — vetores e matrizes |
-| 📖 Aula 08 | Variáveis compostas heterogêneas — estruturas (`structs`) |
-| 📚 Aula 09 | Estruturas de dados avançadas — listas e dicionários |
+| 📔 Aula 07 | Variáveis compostas homogêneas (vetores e matrizes) |
+| 📖 Aula 08 | Variáveis compostas heterogêneas (`struct`) |
+| 📚 Aula 09 | Estruturas de dados e coleções |
+| 🚀 Próximas aulas | Novos conteúdos serão adicionados conforme o avanço da disciplina. |
 
 ---
 
-# 🎯 Objetivos do projeto
+# 🖥️ Projetos em C++
 
-Este repositório tem como objetivos:
+Os exercícios em **C++** são utilizados principalmente para desenvolver a lógica de programação e compreender os fundamentos da linguagem.
 
-- Registrar minha evolução durante a disciplina de Linguagem de Programação;
-- Praticar desenvolvimento utilizando C++ e C#;
-- Desenvolver raciocínio lógico e resolução de problemas;
-- Aplicar conceitos fundamentais da programação estruturada;
-- Aprender organização e documentação de projetos;
-- Utilizar Git e GitHub como ferramentas de versionamento;
-- Criar uma base sólida para futuros projetos na área de Desenvolvimento de Sistemas.
+Entre os principais conteúdos estudados estão:
+
+- Variáveis e constantes;
+- Operadores aritméticos e lógicos;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Funções;
+- Vetores e matrizes;
+- Structs;
+- Organização modular do código.
+
+Exemplo:
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello, World!" << endl;
+}
+```
+
+Todos os programas são desenvolvidos buscando código organizado, legível e de fácil compreensão.
+
+---
+
+# ⚙️ Projetos em C# (.NET)
+
+Além da implementação em C++, todos os exercícios também são desenvolvidos utilizando **C#** e a plataforma **.NET**.
+
+Essa segunda implementação permite conhecer recursos específicos da linguagem, como:
+
+- Classes;
+- Métodos;
+- Namespace;
+- Console Application;
+- Organização em projetos.
+
+Exemplo:
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+```
+
+Os projetos são desenvolvidos principalmente utilizando o **Visual Studio**, seguindo a estrutura padrão de aplicações Console do .NET.
 
 ---
 
 # ▶️ Como executar
 
-## C++
+## 💙 Executando programas em C++
 
-1. Acesse a pasta do exercício em C++;
-2. Compile o arquivo `.cpp`;
-3. Execute o programa.
+### Requisitos
+
+É necessário possuir um compilador C++ instalado.
+
+Algumas opções:
+
+- GCC (MSYS2 ou MinGW);
+- Microsoft Visual C++;
+- Visual Studio Community;
+- Visual Studio Code com a extensão C/C++.
+
+---
+
+### Compilando pelo terminal
+
+Abra o terminal na pasta onde está localizado o arquivo `.cpp`.
 
 Exemplo:
 
 ```bash
-g++ exercicio.cpp -o programa
-./programa
+g++ Ex01.cpp -o Ex01
+```
+
+Execute o programa:
+
+Windows
+
+```bash
+Ex01.exe
+```
+
+Linux
+
+```bash
+./Ex01
 ```
 
 ---
 
-## C# (.NET)
+### Executando pelo Visual Studio Code
 
-1. Acesse a pasta do exercício em C#;
-2. Execute o projeto utilizando o .NET:
+1. Instale a extensão **C/C++**;
+2. Configure o compilador;
+3. Abra o arquivo `.cpp`;
+4. Compile e execute normalmente.
+
+---
+
+# 💜 Executando projetos C# (.NET)
+
+## Requisitos
+
+Instalar:
+
+- .NET SDK;
+- Visual Studio Community.
+
+ou
+
+- Visual Studio Code + extensão C#.
+
+---
+
+### Executando pelo terminal
+
+Abra a pasta do projeto.
+
+Exemplo:
+
+```bash
+cd Aula06/C#/Ex01
+```
+
+Execute:
 
 ```bash
 dotnet run
 ```
+
+Caso seja necessário compilar primeiro:
+
+```bash
+dotnet build
+```
+
+---
+
+### Executando pelo Visual Studio
+
+Abra o arquivo:
+
+```
+Ex01.csproj
+```
+
+ou a solução:
+
+```
+LPR_2K26.slnx
+```
+
+Depois pressione:
+
+```
+▶ Start
+```
+
+ou
+
+```
+F5
+```
+
+O projeto será compilado e executado automaticamente.
+
+---
+
+# 💡 Organização do projeto
+
+Para manter o repositório organizado, foram adotadas algumas práticas ao longo da disciplina.
+
+- Separação dos exercícios por aula;
+- Organização das implementações por linguagem;
+- Padronização dos nomes de arquivos e projetos;
+- Utilização do Git para controle de versão;
+- Documentação através do README;
+- Atualização contínua conforme novos conteúdos são apresentados.
+
+Essa organização facilita tanto a navegação quanto a manutenção do projeto ao longo do curso.
+
+---
+
+# 🎯 Objetivos do projeto
+
+Este repositório possui como principais objetivos:
+
+- 📚 Registrar minha evolução durante a disciplina de Linguagem de Programação;
+- 💙 Desenvolver algoritmos utilizando C++;
+- 💜 Implementar os mesmos exercícios utilizando C#;
+- 🧠 Aprimorar o raciocínio lógico;
+- ⚙️ Aplicar conceitos fundamentais da programação estruturada;
+- 📂 Aprender organização e documentação de projetos;
+- 🌳 Utilizar Git e GitHub como ferramentas de versionamento;
+- 🚀 Construir uma base sólida para disciplinas futuras do curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 
@@ -163,16 +357,30 @@ dotnet run
 
 Este repositório continuará sendo atualizado conforme novos conteúdos forem apresentados na disciplina e novos exercícios forem desenvolvidos.
 
+O objetivo é manter toda a evolução registrada, permitindo acompanhar o aprendizado ao longo do curso.
+
 ---
 
 <div align="center">
 
-### Desenvolvido por:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=170&section=footer"/>
+
+<br>
+
+💻 💜 📚 🚀
+
+### Desenvolvido por
 
 **Tuany Silva Pereira — 34DS**
 
 **Curso Técnico em Desenvolvimento de Sistemas**
 
-**ETE FMC — 2026**
+**Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**
+
+**2026**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=LPR+2K26;C%2B%2B+%7C+C%23+.NET;Programming+Fundamentals;Algorithms+and+Logic;Happy+Coding!+💜"/>
 
 </div>
