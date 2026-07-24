@@ -40,13 +40,7 @@
 
 Este repositório reúne todos os exercícios, atividades e projetos desenvolvidos durante a disciplina de **Linguagem de Programação (LPR)** do curso Técnico em **Desenvolvimento de Sistemas (DS)** da **Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**.
 
-Durante a disciplina são utilizados diversos conceitos fundamentais da computação, iniciando pelos algoritmos básicos e evoluindo gradativamente para estruturas de dados mais complexas, sempre aplicando boas práticas de programação e organização de código.
-
 Este projeto também representa meu primeiro contato com ferramentas profissionais de desenvolvimento, como **Git**, **GitHub** e **controle de versão**, registrando toda a minha evolução ao longo da disciplina.
-
-Sempre que possível, cada exercício é implementado em ambas as linguagens, permitindo comparar diferentes sintaxes, estruturas e formas de resolução para um mesmo problema.
-
-Além disso, este repositório serve como material de consulta para estudos futuros e como registro da minha evolução durante o curso Técnico em Desenvolvimento de Sistemas.
 
 ---
 
