@@ -54,13 +54,10 @@ Além disso, este repositório serve como material de consulta para estudos futu
 
 - [👨‍💻 Sobre o repositório](#-sobre-o-repositório)
 - [📁 Estrutura do repositório](#-estrutura-do-repositório)
-- [📂 Organização das aulas](#-organização-das-aulas)
-- [📚 Conteúdo das aulas](#-conteúdo-das-aulas)
-- [💻 Linguagens utilizadas](#-linguagens-utilizadas)
+- [📚 Conteúdo das aulas](#-conteúdo-das-aulas)s)
 - [🖥️ Projetos em C++](#️-projetos-em-c)
 - [⚙️ Projetos em C# (.NET)](#️-projetos-em-c-net)
 - [▶️ Como executar](#️-como-executar)
-- [🛠️ Ferramentas utilizadas](#️-ferramentas-utilizadas)
 - [🎯 Objetivos do projeto](#-objetivos-do-projeto)
 - [📈 Status do repositório](#-status-do-repositório)
 
