@@ -54,7 +54,7 @@ Além disso, este repositório serve como material de consulta para estudos futu
 
 - [👨‍💻 Sobre o repositório](#-sobre-o-repositório)
 - [📁 Estrutura do repositório](#-estrutura-do-repositório)
-- [📚 Conteúdo das aulas](#-conteúdo-das-aulas)s)
+- [📚 Conteúdo das aulas](#-conteúdo-das-aulas)
 - [🖥️ Projetos em C++](#️-projetos-em-c)
 - [⚙️ Projetos em C# (.NET)](#️-projetos-em-c-net)
 - [▶️ Como executar](#️-como-executar)
