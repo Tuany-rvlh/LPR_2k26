@@ -49,15 +49,13 @@ Este projeto também representa meu primeiro contato com ferramentas profissiona
 - [👨‍💻 Sobre o repositório](#-sobre-o-repositório)
 - [📁 Estrutura do repositório](#-estrutura-do-repositório)
 - [📚 Conteúdo das aulas](#-conteúdo-das-aulas)
-- [🖥️ Projetos em C++](#️-projetos-em-c)
-- [⚙️ Projetos em C# (.NET)](#️-projetos-em-c-net)
 - [▶️ Como executar](#️-como-executar)
 - [🎯 Objetivos do projeto](#-objetivos-do-projeto)
 - [📈 Status do repositório](#-status-do-repositório)
 
 ---
 
-# 📁 Estrutura do repositório
+# 📁 Estrutura similar ao repositório
 
 ```text
 LPR_2K26/
@@ -76,7 +74,10 @@ LPR_2K26/
 │
 ├── Aula04/
 │   ├── C++/
+│   │    └── Ex0x.cpp
 │   └── C#/
+│        └── program.cs
+│        └── Ex0x.csproj
 │
 ├── Aula05/
 │   ├── C++/
@@ -119,68 +120,6 @@ LPR_2K26/
 | 📖 Aula 08 | Variáveis compostas heterogêneas (`struct`) |
 | 📚 Aula 09 | Estruturas de dados e coleções |
 | 🚀 Próximas aulas | Novos conteúdos serão adicionados conforme o avanço da disciplina. |
-
----
-
-# 🖥️ Projetos em C++
-
-Os exercícios em **C++** são utilizados principalmente para desenvolver a lógica de programação e compreender os fundamentos da linguagem.
-
-Entre os principais conteúdos estudados estão:
-
-- Variáveis e constantes;
-- Operadores aritméticos e lógicos;
-- Estruturas condicionais;
-- Estruturas de repetição;
-- Funções;
-- Vetores e matrizes;
-- Structs;
-- Organização modular do código.
-
-Exemplo:
-
-```cpp
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    cout << "Hello, World!" << endl;
-}
-```
-
-Todos os programas são desenvolvidos buscando código organizado, legível e de fácil compreensão.
-
----
-
-# ⚙️ Projetos em C# (.NET)
-
-Além da implementação em C++, todos os exercícios também são desenvolvidos utilizando **C#** e a plataforma **.NET**.
-
-Essa segunda implementação permite conhecer recursos específicos da linguagem, como:
-
-- Classes;
-- Métodos;
-- Namespace;
-- Console Application;
-- Organização em projetos.
-
-Exemplo:
-
-```csharp
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Hello, World!");
-    }
-}
-```
-
-Os projetos são desenvolvidos principalmente utilizando o **Visual Studio**, seguindo a estrutura padrão de aplicações Console do .NET.
 
 ---
 
