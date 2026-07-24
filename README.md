@@ -59,12 +59,6 @@ Este projeto também representa meu primeiro contato com ferramentas profissiona
 
 # 📁 Estrutura do repositório
 
-A organização deste repositório evoluiu conforme o avanço da disciplina.
-
-Nas primeiras aulas, os exercícios eram armazenados diretamente dentro da pasta correspondente à aula. Posteriormente, foi adotada uma estrutura padronizada, separando as implementações em **C++** e **C#**, tornando o projeto mais organizado e facilitando a comparação entre as linguagens.
-
-A estrutura geral do projeto é semelhante à seguinte:
-
 ```text
 LPR_2K26/
 │
@@ -108,7 +102,6 @@ LPR_2K26/
 │
 └── README.md
 ```
-Essa organização facilita a navegação pelo projeto e torna muito mais simples comparar a implementação de um mesmo exercício em C++ e C#.
 
 ---
 
@@ -309,21 +302,6 @@ F5
 ```
 
 O projeto será compilado e executado automaticamente.
-
----
-
-# 💡 Organização do projeto
-
-Para manter o repositório organizado, foram adotadas algumas práticas ao longo da disciplina.
-
-- Separação dos exercícios por aula;
-- Organização das implementações por linguagem;
-- Padronização dos nomes de arquivos e projetos;
-- Utilização do Git para controle de versão;
-- Documentação através do README;
-- Atualização contínua conforme novos conteúdos são apresentados.
-
-Essa organização facilita tanto a navegação quanto a manutenção do projeto ao longo do curso.
 
 ---
 
