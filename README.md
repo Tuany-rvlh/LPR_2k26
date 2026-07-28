@@ -14,7 +14,7 @@
 
 ### Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)
 
-### Orientador: **José Andery**
+### Orientador: **Prof. José Andery**
 
 <br>
 
