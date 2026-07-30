@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=220&section=header&text=LPR%202K26&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=140&section=header&text=LPR%202K26&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 <div align="center">
@@ -80,8 +80,6 @@ LPR_2K26/
 ```
 
 ---
-
-# 📚 Conteúdo das aulas
 
 # 📚 Conteúdo das aulas
 
@@ -248,8 +246,11 @@ mindmap
 > Este repositório está em desenvolvimento e será atualizado continuamente conforme novos conteúdos forem apresentados na disciplina de Linguagem de Programação (LPR).
 > 
 > 🟡 **Status:** Em andamento
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=170&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=90&section=footer"/>
 <br>
 
 ### Desenvolvido por
