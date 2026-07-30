@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=140&section=header&text=LPR%202K26&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,25:5A189A,50:7B2CBF,75:9D4EDD,100:C77DFF&height=140&section=header&text=LPR%202K26&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 <div align="center">
@@ -101,7 +101,7 @@ LPR_2K26/
 # ▶️ Como executar
 
 <details>
-<summary><b>💙 Executando programas em C++</b></summary>
+<summary><b> Executando programas em C++</b></summary>
 
 <br>
 
@@ -154,7 +154,7 @@ Ex01.exe
 </details>
 
 <details>
-<summary><b>💜 Executando projetos C# (.NET)</b></summary>
+<summary><b> Executando projetos C# (.NET)</b></summary>
 
 <br>
 
@@ -250,7 +250,7 @@ mindmap
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001B5E,20:1565C0,40:3F51B5,60:7B1FA2,80:8E24AA,100:42A5F5&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4A148C&height=60&section=footer"/>
 <br>
 
 ### Desenvolvido por
