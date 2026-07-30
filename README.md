@@ -28,9 +28,9 @@
 
 # 👨‍💻 Sobre o repositório
 
-Este repositório reúne todos os exercícios, atividades e projetos desenvolvidos durante a disciplina de **Linguagem de Programação (LPR)** do curso Técnico em **Desenvolvimento de Sistemas (DS)** da **Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**.
+Este repositório reúne os **exercícios, atividades e projetos** desenvolvidos durante a disciplina de **Linguagem de Programação (LPR)** do curso Técnico em **Desenvolvimento de Sistemas (DS)** da **Escola Técnica de Eletrônica Francisco Moreira da Costa (ETE FMC)**.
 
-Além disso, ele representa meu primeiro contato com ferramentas profissionais de desenvolvimento, como **Git**, **GitHub** e **controle de versão**, registrando toda a minha evolução ao longo da disciplina.
+Nele são registrados os aprendizados em **C++**, **C#**, lógica de programação, algoritmos e boas práticas de desenvolvimento, além da utilização de ferramentas como **Git**, **GitHub** e controle de versão.
 
 **Orientador: Prof. José Andery**
 
@@ -41,8 +41,8 @@ Além disso, ele representa meu primeiro contato com ferramentas profissionais d
 - [👨‍💻 Sobre o repositório](#-sobre-o-repositório)
 - [📁 Estrutura do repositório](#-estrutura-do-repositório)
 - [📚 Conteúdo das aulas](#-conteúdo-das-aulas)
-- [▶️ Como executar](#️-como-executar)
 - [🎯 Objetivos do projeto](#-objetivos-do-projeto)
+- [▶️ Como executar](#️-como-executar)
 - [📈 Status do repositório](#-status-do-repositório)
 
 ---
@@ -85,23 +85,44 @@ LPR_2K26/
 
 | Aula | Conteúdo desenvolvido | Status |
 |:----:|-----------------------|:------:|
-| Aula 01 | Conceitos básicos da computação e primeiro programa (**Hello World**) em C++ e C# | ✓ |
-| Aula 02 | Introdução à lógica de programação, variáveis, operadores e entrada/saída de dados | ✓ |
-| Aula 03 | Git, GitHub e controle de versão | ✓ |
-| Aula 04 | Estruturas de seleção (`if`, `else` e `switch`) | ✓ |
-| Aula 05 | Estruturas de repetição (`for`, `while` e `do while`) | ✓ |
-| Aula 06 | Funções, métodos e modularização de código | ✓ |
-| Aula 07 | Variáveis compostas homogêneas (vetores e matrizes) | ✓ |
-| Aula 08 | Variáveis compostas heterogêneas (`struct`) | ✓ |
-| Aula 09 | Estruturas de dados e coleções | ✓ |
-| Próximas aulas | Novos conteúdos serão adicionados conforme o avanço da disciplina. | • |
+| Aula 01 | Conceitos básicos da computação e primeiro programa (**Hello World**) em C++ e C# | ✔ |
+| Aula 02 | Introdução à lógica de programação, variáveis, operadores e entrada/saída de dados | ✔ |
+| Aula 03 | Git, GitHub e controle de versão | ✔ |
+| Aula 04 | Estruturas de seleção (`if`, `else` e `switch`) | ✔ |
+| Aula 05 | Estruturas de repetição (`for`, `while` e `do while`) | ✔ |
+| Aula 06 | Funções, métodos e modularização de código | ✔ |
+| Aula 07 | Variáveis compostas homogêneas (vetores e matrizes) | ✔ |
+| Aula 08 | Variáveis compostas heterogêneas (`struct`) | ✔ |
+| Aula 09 | Estruturas de dados e coleções | ✔ |
+| ... | Novos conteúdos serão adicionados conforme o avanço da disciplina. | • |
 
+---
+
+# 🎯 Objetivos do projeto
+
+```mermaid
+mindmap
+  root((LPR 2K26))
+    Fundamentos
+      Programação
+      Algoritmos
+    Desenvolvimento
+      C++
+      C#
+    Raciocínio
+      Lógica
+      Resolução de problemas
+    Organização
+      Git
+      GitHub
+      Documentação
+```
 ---
 
 # ▶️ Como executar
 
 <details>
-<summary><b> Executando programas em C++</b></summary>
+<summary><b>Executando programas em C++</b></summary>
 
 <br>
 
@@ -154,7 +175,7 @@ Ex01.exe
 </details>
 
 <details>
-<summary><b> Executando projetos C# (.NET)</b></summary>
+<summary><b>Executando projetos C# (.NET)</b></summary>
 
 <br>
 
@@ -227,30 +248,19 @@ O projeto será compilado e executado automaticamente.
 
 ---
 
-# 🎯 Objetivos do projeto
-
-```mermaid
-mindmap
-  root((LPR 2K26))
-    Consolidar fundamentos da programação
-    Desenvolver soluções em C++ e C#
-    Fortalecer a lógica e a resolução de problemas
-    Aplicar organização e versionamento
-```
-
----
-
 # 📈 Status do repositório
 
 > [!NOTE]
 > Este repositório está em desenvolvimento e será atualizado continuamente conforme novos conteúdos forem apresentados na disciplina de Linguagem de Programação (LPR).
 > 
-> 🟡 **Status:** Em andamento
+> **Status:** Em andamento
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4A148C&height=60&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:7B2CBF&height=70&section=footer"/>
+
 <br>
 
 ### Desenvolvido por
@@ -264,11 +274,5 @@ mindmap
 **Orientador: Prof. José Andery**
 
 **2026**
-
-<br>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=8E24AA&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Linguagem+de+Programa%C3%A7%C3%A3o+%F0%9F%92%BB;Initializing+LPR+2K26...;Loading+C%2B%2B+Compiler...;Loading+.NET+Runtime...;Building+Algorithms...;Executing+Programming+Exercises...;System+Online+%E2%9C%93"/>
-</div>
 
 </div>
