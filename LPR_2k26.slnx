@@ -83,4 +83,8 @@
     <Project Path="Aula09/C#/Ex07_DicionarioCidade/Ex07_DicionarioCidade.csproj" />
     <Project Path="Aula09/C#/Ex08_DicionarioLivro/Ex08_DicionarioLivro.csproj" />
   </Folder>
+  <Folder Name="/Aula10/" />
+  <Folder Name="/Aula10/C#/">
+    <Project Path="Aula10/C#/Ex01_AreaPerimetroRet/Ex01_AreaPerimetroRet.csproj" />
+  </Folder>
 </Solution>
