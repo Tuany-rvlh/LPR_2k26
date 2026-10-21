@@ -86,5 +86,6 @@
   <Folder Name="/Aula10/" />
   <Folder Name="/Aula10/C#/">
     <Project Path="Aula10/C#/Ex01_AreaPerimetroRet/Ex01_AreaPerimetroRet.csproj" />
+    <Project Path="Aula10/C#/Ex02_FuncionarioImposto/Ex02_FuncionarioImposto.csproj" />
   </Folder>
 </Solution>
