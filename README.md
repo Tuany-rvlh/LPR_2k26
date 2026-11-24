@@ -94,6 +94,7 @@ LPR_2K26/
 | Aula 07 | Variáveis compostas homogêneas (vetores e matrizes) | ✔ |
 | Aula 08 | Variáveis compostas heterogêneas (`struct`) | ✔ |
 | Aula 09 | Estruturas de dados e coleções | ✔ |
+| Aula 10 | Programação Orientada a Objetos (POO): classes, objetos, atributos, métodos, construtores e relacionamentos entre classes | ✔ |
 | ... | Novos conteúdos serão adicionados conforme o avanço da disciplina. | • |
 
 ---
