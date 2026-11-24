@@ -95,6 +95,7 @@ LPR_2K26/
 | Aula 08 | Variáveis compostas heterogêneas (`struct`) | ✔ |
 | Aula 09 | Estruturas de dados e coleções | ✔ |
 | Aula 10 | Programação Orientada a Objetos (POO): classes, objetos, atributos, métodos, construtores e relacionamentos entre classes | ✔ |
+| Aula 11 | Banco de dados relacionais com SQLite: criação de bancos e tabelas, manipulação de registros (CRUD), chaves primárias e estrangeiras e consultas com JOIN | ✔ |
 | ... | Novos conteúdos serão adicionados conforme o avanço da disciplina. | • |
 
 ---
