@@ -1,0 +1,60 @@
+
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+class Cliente;
+
+class Reserva
+{
+public:
+    string descricao;
+    Cliente* cliente;
+
+    Reserva(string descricao, Cliente* cliente)
+    {
+        this->descricao = descricao;
+        this->cliente = cliente;
+    }
+};
+
+class Cliente
+{
+public:
+    string nome;
+    vector<Reserva> reservas;
+
+    Cliente(string nome)
+    {
+        this->nome = nome;
+    }
+
+    void AdicionarReserva(Reserva reserva)
+    {
+        reservas.push_back(reserva);
+    }
+
+    void ListarReservas()
+    {
+        cout << "Reservas de " << nome << endl;
+
+        for (int i = 0; i < reservas.size(); i++)
+        {
+            cout << "Reserva: " << reservas[i].descricao << endl;
+        }
+    }
+};
+
+int main()
+{
+    Cliente cliente("Tuany");
+
+    Reserva reserva1("Quarto 101", &cliente);
+    Reserva reserva2("Quarto 202", &cliente);
+
+    cliente.AdicionarReserva(reserva1);
+    cliente.AdicionarReserva(reserva2);
+
+    cliente.ListarReservas();
+}

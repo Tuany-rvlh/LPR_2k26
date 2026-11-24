@@ -89,5 +89,9 @@
     <Project Path="Aula10/C#/Ex02_FuncionarioImposto/Ex02_FuncionarioImposto.csproj" />
     <Project Path="Aula10/C#/Ex03_AprovarAluno/Ex03_AprovarAluno.csproj" />
     <Project Path="Aula10/C#/Ex04_TheForja/Ex04_TheForja.csproj" />
+    <Project Path="Aula10/C#/Ex05_SistemasDeVendas/Ex05_SistemasDeVendas.csproj" />
+    <Project Path="Aula10/C#/Ex06_Cliente&amp;Reserva/Ex06_Cliente&amp;Reserva.csproj" />
+    <Project Path="Aula10/C#/Ex07_Livros&amp;Biblioteca/Ex07_Livros&amp;Biblioteca.csproj" />
+    <Project Path="Aula10/C#/Ex08_Aluno&amp;Turma/Ex08_Aluno&amp;Turma.csproj" />
   </Folder>
 </Solution>
